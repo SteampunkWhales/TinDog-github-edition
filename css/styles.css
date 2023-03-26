@@ -32,6 +32,18 @@ p{
     padding: 7% 15%;
 }
 
+/* Sections */
+
+.hue-section{
+    background-color: #ff4c68;
+    color: white;
+}
+
+.white-section{
+    background-color: white;
+    
+}
+
 /* Navigation Bar */
 
 .navbar{
@@ -57,14 +69,9 @@ p{
 
 /* Title Section */
 
-#title{
-    background-color: #ff4c68;
-    color: white;
-    text-align: left;
-}
-
 #title .container-fluid{
     padding: 3% 15% 7%;
+    text-align: left;
 }
 
 /* Title Image */
@@ -86,7 +93,6 @@ p{
 
 #features{
     padding:7% 15%;
-    background-color: white;
     position: relative;
 }
 
@@ -111,7 +117,6 @@ p{
 
 #testimonials{
     background-color: #ef8172;
-    color: white;
 }
 
 .testimonial-text{
@@ -170,8 +175,8 @@ p{
 
 /* Call to Action Section */
 
+ /* - - - She deleted cta section but I need this margin still */
 #cta{
-    background-color: #ff4c68;
     margin-bottom: 100px;
 }
 
